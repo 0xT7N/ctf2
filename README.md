@@ -5,8 +5,6 @@
 ![2](https://github.com/0xT7N/ctf2/assets/75274517/4a2de490-dff2-4d6e-ba6d-1849c8210d1a)
 <br>**second** open statistics then conversation to see which ips connect with each other
 ![3](https://github.com/0xT7N/ctf2/assets/75274517/4d23699c-0ec3-43cc-a2f6-bea59c375d40)
-<br> **third** open file export-objeccts-http with it we will see which file transfer through http protocol
-![5](https://github.com/0xT7N/ctf2/assets/75274517/5e261d6a-21be-4495-a5c5-dac58be0e35a)
 <br> we now ready for the challenge 
 # Q1 Understanding the geographical origin of the attack aids in geo-blocking measures and threat intelligence analysis. What city did the attack originate from?
 <br> using ipgeoloction 
